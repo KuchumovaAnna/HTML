@@ -11,7 +11,7 @@ body{
     background: white;
 }
 .container{
-    width: 1200;
+    width: 1170px;
     margin: 0 auto;
 }
 
@@ -47,7 +47,7 @@ body{
     padding-top: 164px;
     font-style: normal;
     font-weight: 522px;
-    position: absolute;width: 522px;
+    width: 522px;
     height: 222px;font-family: 'Gilroy-Bold';font-size: 60px;line-height: 70px;color: #000000;
     margin-bottom: 17px;
 }
@@ -56,7 +56,7 @@ body{
     padding-top: 403px;
     font-style: normal;
     font-weight: 466px;
-    position: absolute;width: 466px;
+    width: 466px;
     height: 48px;font-family: 'Gilroy-Medium';font-size: 20px;line-height: 23px;color: #888888;
 }
 .top__bottons{
