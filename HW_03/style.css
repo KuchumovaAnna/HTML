@@ -46,6 +46,8 @@ body{
 .content{
     display: inline-flex;
     gap: 30px;        justify-content: center;
+    flex-wrap: wrap;
+    flex-direction: row;
 }
 
 .item{
@@ -57,7 +59,7 @@ body{
 }
 
 .title__text{
-    
+
 }
 
 .title{
